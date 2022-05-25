@@ -1,0 +1,15 @@
+.countDownDiv{
+    @apply flex flex-col-reverse items-center justify-center gap-2;
+
+    time{
+        @apply text-7xl font-normal text-center;
+    }
+    span{
+        @apply text-border-menu-mobile text-center text-sm;
+    }
+}
+
+.pontos{
+    @apply hidden md:flex text-center text-8xl mb-[-20px];
+}
+
