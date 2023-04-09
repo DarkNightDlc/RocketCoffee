@@ -16,5 +16,5 @@
   * Headlessui
 
 ### Motivo Desse Projeto
-Usei como método estudo de mim mesmo para saber oque eu sabia ou achava que sabia e para usar o React Router, aproveitei que tinha um templete e o tomei como base.
+Usei como método estudo de mim mesmo para saber oque eu sabia ou achava que sabia e para usar o React Router, aproveitei que tinha um template e o tomei como base.
 
